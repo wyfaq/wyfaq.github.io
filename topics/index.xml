@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WY FAQ</title>
-    <link>https://wyfaq.github.io/</link>
-    <description>Recent content on WY FAQ</description>
+    <title>Topics on WY FAQ</title>
+    <link>https://wyfaq.github.io/topics/</link>
+    <description>Recent content in Topics on WY FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     
-	<atom:link href="https://wyfaq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wyfaq.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
